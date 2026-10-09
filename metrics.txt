@@ -1,0 +1,5 @@
+House Price Prediction - Model Metrics
+Mean Squared Error (MSE): 0.5559
+R-squared (R2): 0.5758
+
+Note: Values transcribed from the provided Google Colab screenshot.
